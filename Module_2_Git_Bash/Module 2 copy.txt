@@ -1,0 +1,14 @@
+﻿Raliat Akesode 
+Module 2
+TKH
+16 July 2021 
+
+
+1. What is Git and how is it different from Github?
+   1. Git is software for tracking changes in any set of files. Github is a provider of internet hosting for software development and version control utilizing Git. 
+2. Why use terminal?
+   1. As a developer, we want to speak to the computer directly. Terminal is a system that helps us quickly take control of the operating system and make changes. Terminal allows us to go deeper than the Graphical User Interface and make changes.
+3. Explain three benefits of version control in your own words.
+   1. You are able to keep track of all changes made individually and by other contributors. It also tracks all revisions and changes.
+   2. It allows people to work individually without affecting the contribution of others.
+   3. Version control is a practical and secure manner for software configuration management.
