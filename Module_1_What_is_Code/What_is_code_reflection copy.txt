@@ -1,0 +1,50 @@
+Raliat Akesode 
+The Knowledge House 
+Module 1
+09 July 2021 
+
+What is Code Reflection
+
+1. What is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+
+When typing a letter on a keyboard, the user is giving something to a program (input). The computer is picking up on a program language which in essence are a set of instructions that tells the computer what it needs to do. Every key makes a code and the computer translates these various codes to give something to the user. 
+
+2. How do computers use input and output to create experiences? (250 words max)
+
+Typing letters and words is the input of information. Letters appearing on a screen is the output of information. Based on input, things could respond and change according to what is entered. Based on what is input, results in the output. Input is data that a computer receives and output is data that a computer sends. Together, both input and output work to provide its user with an experience such as a webpage. 
+
+3. Explain why software products are essentially “infinitely reproducible nothings” (150 words max)
+
+Software products are essentially “infinitely reproducible nothings” because since we have computers all over, more data is being created. This leads to more programming constantly being needed.
+
+4. Explain how code becomes software (150 words max)
+
+Software begins with code. Coding is what helps the computer or system device know what it should do. Coding uses programming language to let a computer perform a particular way. Programs are made of codes. Software is the transformation of collective lines of code in flies. The code is input, carried out by interconnected logic gates and then translated into software. 
+
+5. Explain “algorithms” in your own words (150 words max)
+
+Algorithms is a term used to describe a sequence of instructions that solve an issue or perform precise actions. Based on the article, algorithms do not require a computer. In conclusion, an algorithm solves an issue when it comes to coding. An algorithm can be decoded into a function. 
+
+6. Explain the DRY principle (100 words max)
+
+The “DRY” principle which stands for ‘Don’t Repeat Yourself” aims at decreasing the repetition of actions. The DRY principle emphasizes doing things once and allowing the computer to repeat itself. Programmers repeat themselves at times and this is why “DRY” is a value. 
+
+7. What is object-orientated programming? (100 words max)
+
+Object orientated programming is an organization system for coding. Object-orientated programming provided coders with a way to name things. A representative programming language for object-orientated programming is known as Smalltalk. 
+
+8. Explain data and how it relates to code (100 words max) 
+
+Data and code go hand in hand. Data comes from all over. Data is a set of information. Code is established instructions that specify what is done with in the input of data. As a coder, data is discussed all the time. Some can agree that code and data are interchangeable terms. 
+
+9. What is a framework? (150 words max)
+
+A framework is a part of software that provides a structure for function. When it comes to Framework, it is a set of code that simplifies programming in any language. Framework holds parts together. There are a multitude of frameworks and every language has one. A con about framework is that it can cause a person to think very specifically and  not “outside of the box”.
+
+10. What is debugging? (150 words max)
+
+Debugging is the procedure of distinguishing and deleting potential or existing errors in a software code that can cause the software to either crash or respond in an unusual manner. At times the software code can also not be prepared for certain codes. Finding an error or multiple errors in a set of computer instructions is what debugging is. 
+ 
+11. Why do you want to learn how to code? (500 words max)
+
+I want to learn how to code because I enjoy searching for solutions to issues and working backwards to reach a solution, In essence that is what coding is. Learning how to code will also be very rewarding to me because not only is it challenging, but also thought provoking. Technology is also easily and rapidly dominating our world, so it is important to understand the framework of coding and how to code to utilize it for improvement when it comes to the quality of life. Coding helps with math skills which is a subject I truly enjoy. Through coding I will be able to confidently solve problems. I also want to learn how to code because I see myself in a career that I thoroughly enjoy while simultaneously engaging in continuous learning. 
